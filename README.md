@@ -1,7 +1,7 @@
 OpenBangalore.org
 =================
 
-This is the Git repository for openbangalore related tools and scripts. If you are looking for raw data then go to [OpenBangalore](http://openbangalore.org) website or [Bangalore Data Repo](https://github.com/thejeshgn/bangalore) on Github.
+This is the Git repository for openbangalore related tools and scripts. If you are looking for raw data then go to [OpenBangalore](http://openbangalore.org) website or [Bangalore Data Repo](https://github.com/openbangalore/bangalore) on Github.
 
 
 ### Authors
